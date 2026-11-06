@@ -39,3 +39,23 @@
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ae,pr,blender,vscode,idea,docker,linux" /><br>
+
+## HITA / OH-MY-HITA 生态
+
+课表应用「HITA」的插件化复刻与周边仓库：
+
+| 仓库 | 作用 |
+|---|---|
+| [OH-MY-HITA](https://github.com/kajimi16/OH-MY-HITA) | 宿主：API 7、插件市场、整合包、Release |
+| [hita-community-plugins](https://github.com/kajimi16/hita-community-plugins) | 社区插件与中央市场索引 |
+| [hita-plugin-template](https://github.com/kajimi16/hita-plugin-template) | 插件开发模板与 AAR |
+| [hita-timetable-wallpaper](https://github.com/kajimi16/hita-timetable-wallpaper) | 原生课表壁纸/外观插件 |
+| [hita-anime-plugin](https://github.com/kajimi16/hita-anime-plugin) | 番剧界面插件 |
+
+复刻来源：
+
+- [LiPu-jpg/HITA_L](https://github.com/LiPu-jpg/HITA_L)（HITA-L 1.5.3）
+- [HIT-A/HITA_Android](https://github.com/HIT-A/HITA_Android)（HITA_Android v3.1.2）
+
+安装：[最新 Release](https://github.com/kajimi16/OH-MY-HITA/releases/latest) ·
+[国内镜像](https://ani2-ext.kajimi.cc/hita/releases/oh-my-hita-latest.apk)
